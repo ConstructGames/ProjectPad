@@ -1,0 +1,19 @@
+# User data and private configuration
+Saved/
+.env
+.env.*
+*.log
+
+# Generated output, copied installations and third-party source downloads
+/build/
+/dist/
+/releases/
+/dependency-sources/
+/.build-env*/
+/.python*/
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
